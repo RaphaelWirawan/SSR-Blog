@@ -5,6 +5,7 @@ date: '2020-07-01'
 
 *And.. We are live*  
 So.. First post..  
+
 **First off**, thanks for checking out my blog  
 I'll be posting about stuff that I:
 
